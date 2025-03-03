@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "603009835331",
+    "project_id": "healthmonitor-86f8e",
+    "storage_bucket": "healthmonitor-86f8e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603009835331:android:1b7513b6c0fd14bab6cff6",
+        "android_client_info": {
+          "package_name": "com.healthmonitor.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603009835331-1rmmqk5qefdh46oupnaed54jlun0ndrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.healthmonitor.app",
+            "certificate_hash": "bfc66973d08b3e2caecf7ea6e6347849f94bd031"
+          }
+        },
+        {
+          "client_id": "603009835331-kcda4loiq1v6rk4mfabu0b6t8eit77nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0F6yEiMOg014HR82zxuI44kl007scEek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603009835331-kcda4loiq1v6rk4mfabu0b6t8eit77nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
